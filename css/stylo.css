@@ -1,0 +1,36 @@
+.barra ul li a{
+	background: #838383;
+	font size: 50px;
+	padding: 25px 100px;
+	margin-left: : 10px;
+	float: left;
+	color: #005883;
+	text-orientation: center;
+	-webkit-transition:all 0.5s; 
+}
+	.barra li {
+		list-style:none;
+	}
+
+
+
+.contenedor { 
+	width: 100px
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+body{
+	background-image: url(../imag/fondo.jpg);
+	text-orientation: justific;
+}
+.z  {
+	color: #005883;
+	font-family: #005883;
+	margin-left: 20px;
+	font-size: 40px;
+	text-orientation: center;
+}
+		header{
+			width: 1000px;
+			height	:562;
